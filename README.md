@@ -1,2 +1,2 @@
 # ProgramaBibliotecaPython
-Essa é Software para gerencia de uma biblioteca desenvolvida pelo meu Grupo para fins acadêmicos. 
+Este é Software é para gerenciamento de biblioteca para fins acadêmicos. 
